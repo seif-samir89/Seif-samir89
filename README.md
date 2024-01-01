@@ -1,4 +1,4 @@
-<p></p>    <img width="890" top="100" src="https://media.istockphoto.com/id/1188254830/vector/abstract-red-background-with-binary-code-numbers-malware-concept.jpg?s=612x612&w=0&k=20&c=WPitOFS_6VOoixxptXZ5Epe8G_6aJZteaGE84VW1yUQ=" alt="">
+<div><img width="890"src="https://media.istockphoto.com/id/1188254830/vector/abstract-red-background-with-binary-code-numbers-malware-concept.jpg?s=612x612&w=0&k=20&c=WPitOFS_6VOoixxptXZ5Epe8G_6aJZteaGE84VW1yUQ=" alt=""> </div>
 <h1 align="center">Hi 👋, I'm Seif Samir</h1>
     <img width="300" align="right" src="https://i.pinimg.com/originals/bf/55/45/bf55450d2ccadf2cc45973c2ad965a60.gif" alt="Coding">
 <h3 align="center">A passionate frontend developer from Egypt, I love learning and my role model is Abdulrahman bin Khaldoun , My ambition is to continue learning and make a balance between science and religion .</h3>
