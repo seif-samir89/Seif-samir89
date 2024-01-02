@@ -1,5 +1,4 @@
-<div><img width="1000" height="450"src="
-    (https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif)" alt=""> </div>
+<div><img width="1000" height="450"src="(https://i.pinimg.com/originals/e7/49/97/e7499757bf3a6628a2bbfc74a1df01b8.gif)" alt=""> </div>
 <h1 align="center">Hi 👋, I'm Seif Samir</h1>
     <img width="300" align="right" src="https://i.pinimg.com/originals/bf/55/45/bf55450d2ccadf2cc45973c2ad965a60.gif" alt="Coding">
 
