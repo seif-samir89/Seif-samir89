@@ -1,6 +1,6 @@
 <div><img width="1000" height="450"src="
          [https://seif-samir89.github.io/img/VID_20240101211702.gif"]
-         (https://seif-samir89.github.io/img/VID_20240101211702.gif) alt=""> </div>
+        alt=""> </div>
 <h1 align="center">Hi 👋, I'm Seif Samir</h1>
     <img width="300" align="right" src="https://i.pinimg.com/originals/bf/55/45/bf55450d2ccadf2cc45973c2ad965a60.gif" alt="Coding">
 
